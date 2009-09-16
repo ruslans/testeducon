@@ -28,6 +28,6 @@ if ($operation == "geteilt")
 
 
 echo "<P><STRONG>Ergebnis: ",$ergebnis,"</STRONG></P>";
-
+//bla test
 ?>
 	
